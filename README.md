@@ -17,6 +17,12 @@ The application have the following functionality:
 
 ![MainWindowPlay.png](materials%2Fpictures%2FMainWindowPlay.png)
 
+![PauseWindow.png](materials/pictures/PauseWindow.png)
+
+![PassingThroughGates.png](materials/pictures/PassingThroughGates.png)
+
+![DyingByTheWall.png](materials/pictures/DyingByTheWall.png)
+
 ![MainWindowEndGame.png](materials%2Fpictures%2FMainWindowEndGame.png)
 
 ![AboutApplication.png](materials%2Fpictures%2FAboutApplication.png)
