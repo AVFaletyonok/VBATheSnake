@@ -13,6 +13,8 @@ The application have the following functionality:
 - A snake will be growing up by eating food.
 - A snake can eat its tail or die by borders.
 
+<img src="materials%2Fpictures%2FTheSnakePlay.gif" alt="TheSnakePlay.gif" width="520" height="413">
+
 ![MainWindow.png](materials%2Fpictures%2FMainWindow.png)
 
 ![MainWindowPlay.png](materials%2Fpictures%2FMainWindowPlay.png)
