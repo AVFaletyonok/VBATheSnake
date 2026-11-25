@@ -1,4 +1,4 @@
-# The snake
+# The Snake
 
 The game was developed in MS Excel by VBA.
 
